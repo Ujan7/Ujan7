@@ -27,7 +27,7 @@
 <br />
 👦 I really like sports,videogames,movies and I'm passionate with technology.
 <br />
-💞️ Also focused on the creative process of developing and implementing usefuls tools for people focused on programming.
+💞️ Also focused on the creative process of developing and implementing usefuls tools for people, centred on programming.
 <br />
 </p>
 
