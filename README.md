@@ -1,4 +1,4 @@
-<h1 align="center">Hi! Im Eugenio Arcana & I ❤️ programming.</h1>
+<h1 align="center">Hi! Im Eugenio Arcana, a developer.</h1>
 <p align="center">
 <a href="https://www.instagram.com/eugenio_arcana/?hl=es-la">
   <img alt="Luny's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
