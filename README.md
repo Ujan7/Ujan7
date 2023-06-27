@@ -6,9 +6,6 @@
 <a href="https://discord.com/users/LUNY#9437">
   <img alt="Luny's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/eugearcana11">
-  <img alt="Luny's | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
 <a href="mailto:eugenioarcana11@gmail.com">
   <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="20" />
 </a>
