@@ -40,15 +40,7 @@
 <br />
 🇧🇷 Portuguese (3 years of study).
 
-<p align="center">
-𝕀 ℂ𝕆𝔻𝔼 𝕎𝕀𝕋ℍ
-<br />
-✅ C LANGUAGE: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<br />
-✅ PHYTON LANGUAGE: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-  <br />
-✅ HASKELL LANGUAGE: <code><img height="12" src="https://user-images.githubusercontent.com/8467908/103012469-94618600-4533-11eb-9e18-b521e7d43021.png"></code>
-<br />
+
 
 
 
