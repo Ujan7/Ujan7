@@ -5,7 +5,7 @@
 <br />
 🌱 Studying 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 at 𝐅𝐚𝐌𝐀𝐅.
 <br />
-👀 Working as a data engineer at Seenka Media Data
+👀 Working as a data engineer at Mutt Data
 <br />
 </p>
 
